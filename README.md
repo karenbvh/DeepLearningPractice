@@ -1,1 +1,1 @@
-# DeepLearningPractice
+# Deep Learning Practice
